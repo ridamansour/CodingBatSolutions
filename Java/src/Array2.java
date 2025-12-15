@@ -1,5 +1,3 @@
-package Java;
-
 public class Array2 {
     public int countEvens(int[] nums) {
         int count = 0;

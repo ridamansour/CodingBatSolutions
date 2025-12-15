@@ -1,5 +1,3 @@
-package Java;
-
 public class Recursion2 {
     public boolean groupSum(int start, int[] nums, int target) {
         if (start >= nums.length) return (target == 0);

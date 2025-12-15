@@ -1,5 +1,3 @@
-package Java;
-
 public class Logic1 {
     public boolean cigarParty(int cigars, boolean isWeekend) {
         if (cigars > 60 && isWeekend) return true;

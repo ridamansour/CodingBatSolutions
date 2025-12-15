@@ -1,5 +1,3 @@
-package Java;
-
 public class Warmup2 {
     public String stringTimes(String str, int n) {
         String result = "";

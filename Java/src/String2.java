@@ -1,5 +1,3 @@
-package Java;
-
 public class String2 {
     public String doubleChar(String str) {
         String end = "";

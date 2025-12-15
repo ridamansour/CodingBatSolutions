@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CodingBatSolutions.iml" filepath="$PROJECT_DIR$/CodingBatSolutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/CodingBatSolutions.iml" filepath="$PROJECT_DIR$/Java/CodingBatSolutions.iml" />
     </modules>
   </component>
 </project>

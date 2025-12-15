@@ -1,5 +1,3 @@
-package Java;
-
 public class String3 {
     public int countYZ(String stb) {
         boolean theonebefore = false;

@@ -1,5 +1,3 @@
-package Java;
-
 public class Recursion1 {
     public int factorial(int n) {
         if (n == 1)

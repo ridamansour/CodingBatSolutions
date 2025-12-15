@@ -1,5 +1,3 @@
-package Java;
-
 public class Array3 {
     public int maxSpan(int[] nums) {
         int max = 0;
